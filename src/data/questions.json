@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1",
+    "type": "multiple-choice",
+    "question": "Những di sản kiến trúc còn lại của Chăm-pa ngày nay chủ yếu là",
+    "options": [
+      "Công trình đền tháp",
+      "Nhà sàn",
+      "Tượng Phật",
+      "Đầu rồng bằng đá"
+    ],
+    "correctAnswer": 0,
+    "level": "hard"
+  },
+  {
+    "id": "2",
+    "type": "multiple-choice",
+    "question": "Những tôn giáo chủ yếu nào đã được du nhập từ bên ngoài vào Vương quốc Chăm-pa?",
+    "options": [
+      "Hồi giáo",
+      "Nho giáo",
+      "Đạo giáo",
+      "Phật giáo và Ấn Độ giáo"
+    ],
+    "correctAnswer": 3,
+    "level": "easy"
+  },
+  {
+    "id": "3",
+    "type": "multiple-choice",
+    "question": "Văn hóa Chăm-pa chịu ảnh hưởng đậm nét của nền văn hóa nào trên thế giới?",
+    "options": [
+      "Trung Quốc",
+      "Ấn Độ",
+      "Ai Cập",
+      "Ả Rập"
+    ],
+    "correctAnswer": 1,
+    "level": "easy"
+  },
+  {
+    "id": "4",
+    "type": "multiple-choice",
+    "question": "Người Chăm sáng tạo ra chữ viết của mình trên cơ sở chữ viết nào?",
+    "options": [
+      "Chữ tượng hình",
+      "Chữ La Mã",
+      "Chữ Phạn",
+      "Chữ hình nêm"
+    ],
+    "correctAnswer": 2,
+    "level": "easy"
+  },
+  {
+    "id": "5",
+    "type": "multiple-choice",
+    "question": "Để phục vụ cho nghi lễ tôn giáo, cư dân Chăm-pa đã sáng tạo ra",
+    "options": [
+      "Điệu múa Chăm",
+      "Cồng chiêng",
+      "Trống đồng",
+      "Tượng các vị thần"
+    ],
+    "correctAnswer": 0,
+    "level": "easy"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "name": "Trò chơi Sử Việt Kỳ Thú",
+  "description": "Game Lịch Sử Tương Tác Bằng Cử Chỉ Tay",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
